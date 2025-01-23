@@ -1,0 +1,56 @@
+/* .heading {
+  background-color: blueviolet;
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 5px;
+}
+.box{
+  background-color: bisque;
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 5px;
+
+} */
+ body{
+  margin: 0%;
+  padding: 0%;
+ }
+ h1{
+  font-size: 128px;
+  font-weight: 900;
+  font-style: italic;
+  background-color: beige;
+  font-family: 'Times New Roman', Times, serif;
+  border-radius: 50px;
+  border-style: double;
+ }
+p{
+  font-size: 100%;
+  font-weight: 900;
+}
+.parent{
+  width: 500px;
+  height: fit-content;
+  background-color: aquamarine;
+  font-family: Arial, Helvetica, sans-serif;
+  border-style: inherit;
+  border-color: black;
+  border-style: solid;
+  margin: 25px;
+  padding: 20px;
+}
+.child{
+  width: 400px;
+  height: 100px;
+  background-color: bisque;
+  border-style: inherit;
+  border-color: black;
+  margin: 30px;
+  padding: 25px;
+  padding-left: 15px;
+  overflow: hidden;
+}
+img{
+  opacity: 0.5;
+
+}

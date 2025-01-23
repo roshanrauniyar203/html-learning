@@ -1,0 +1,22 @@
+.parent {
+  width: 100px;
+  height: 200px;
+  background-color: whitesmoke;
+  display: flex;
+}
+.child {
+  top: 50px;
+  width: 100px;
+  height: 200px;
+  background-color: rgb(190, 48, 48);
+  margin: 10%;
+  padding: 20px;
+  border-radius: 50px;
+}
+.child h1{
+    color: aliceblue;
+    background-color: black;
+}
+.child p {
+color: aqua;
+}

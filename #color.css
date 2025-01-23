@@ -1,0 +1,26 @@
+body {
+  height: 100px;
+  width: 0px;
+  margin: 5px;
+  background-color: black;
+}
+.red {
+  background-color: red;
+}
+.green {
+  background-color: green;
+}
+.blue {
+  background-color: blue;
+}
+.container {
+  height: 500px;
+  width: 500px;
+  display: grid;
+  background-color: wheat;
+}
+.small-purple {
+  background-color: 30px;
+  height: 100px;
+  width: 30px;
+}
